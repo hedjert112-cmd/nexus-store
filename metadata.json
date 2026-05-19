@@ -1,0 +1,8 @@
+{
+  "name": "Nexus Store",
+  "description": "A premium, high-performance e-commerce platform with real-time inventory, secure checkout, and a comprehensive admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
